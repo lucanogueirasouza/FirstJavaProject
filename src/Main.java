@@ -9,7 +9,6 @@ public class Main{
         int escolha;
         do {
             System.out.print("""
-            
                     ------- CADASTRO DE MÁQUINA -------
                     1) Cadastrar equipamento
                     2) Vizualizar equipamento cadastrado
